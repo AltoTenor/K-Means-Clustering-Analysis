@@ -3,11 +3,6 @@
 
 This repository contains the implementation of K-Means Clustering on the Iris dataset for the CS4038D Data Mining course assignment. The goal of this experiment was to perform clustering on the Iris dataset and evaluate both intrinsic and extrinsic clustering performance using various metrics.
 
-## Team Members
-- **Chandrakant V Bellary** - B210462CS
-- **Ruben Jacob** - B211013CS
-- **Aritro Ghosh** - B210466CS
-
 ## Problem Statement
 The objective of this experiment is to:
 1. Find the optimal number of clusters for the Iris dataset.
@@ -78,14 +73,7 @@ The Iris dataset is separable into 2 or 3 clusters. Iris Setosa is easily distin
 - Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `sklearn`
 
 ## How to Run
-1. Clone this repository.
-2. Install the required dependencies using:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the script to perform clustering:
-   ```
-   python task3.py
+1. Run this file in a Jupyter Notebook or Google Colab environment.
    ```
 
 ## License
